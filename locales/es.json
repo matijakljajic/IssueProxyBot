@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"locale_de": "Alemán",
+	"locale_en": "Inglés",
+	"locale_es": "Español",
+	"locale_fr": "Francés",
+	"locale_it": "Italiano",
+	"locale_ru": "Ruso",
+	"locale_sr": "Serbio",
+	"locale_zh": "Chino",
+	"hello_world": "¡Hola, {name}!"
+}

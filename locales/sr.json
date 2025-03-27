@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"locale_de": "Nemački",
+	"locale_en": "Engleski",
+	"locale_es": "Španski",
+	"locale_fr": "Francuski",
+	"locale_it": "Italijanski",
+	"locale_ru": "Ruski",
+	"locale_sr": "Srpski",
+	"locale_zh": "Kineski",
+	"hello_world": "Zdravo, {name}!"
+}

@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"locale_de": "德语",
+	"locale_en": "英语",
+	"locale_es": "西班牙语",
+	"locale_fr": "法语",
+	"locale_it": "意大利语",
+	"locale_ru": "俄语",
+	"locale_sr": "塞尔维亚语",
+	"locale_zh": "中文",
+	"hello_world": "你好, {name}!"
+}

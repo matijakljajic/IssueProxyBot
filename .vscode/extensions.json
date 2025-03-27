@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"bradlc.vscode-tailwindcss",
+		"inlang.vs-code-extension",
+		"esbenp.prettier-vscode",
+		"svelte.svelte-vscode"
+	]
+}
