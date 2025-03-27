@@ -43,7 +43,9 @@
 		"vitest": "^3.0.0"
 	},
 	"dependencies": {
-		"@inlang/paraglide-js": "^2.0.0"
+		"@inlang/paraglide-js": "^2.0.0",
+		"@octokit/core": "^6.1.4",
+		"octokit": "^4.1.2"
 	},
 	"pnpm": {
 		"onlyBuiltDependencies": [
